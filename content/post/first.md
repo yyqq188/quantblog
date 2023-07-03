@@ -6,5 +6,5 @@ draft: true
 
 ## HAHH
 
-[best](https://www.youtube.com/watch?v=QlgggyB7XGk)
+{${< youtube QlgggyB7XGk >}}
 
