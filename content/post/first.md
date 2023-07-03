@@ -6,5 +6,5 @@ draft: true
 
 ## HAHH
 
-{{< youtube embed="QlgggyB7XGk" >}}
+{{< youtube QlgggyB7XGk >}}
 
