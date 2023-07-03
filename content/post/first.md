@@ -6,5 +6,5 @@ draft: true
 
 ## HAHH
 
-{${< youtube QlgggyB7XGk >}}
+{{< youtube embed="QlgggyB7XGk" >}}
 
