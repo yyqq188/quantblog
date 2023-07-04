@@ -7,6 +7,7 @@ categories:
  - 策略
 tags:
  - Smart Risk
+ toc: true
 ---
 
 `Smart Risk`是youtube中一个分享交易策略的频道.
@@ -20,6 +21,7 @@ tags:
 {{< youtube QlgggyB7XGk >}}
 
 
+---
 
 
 > 我本人是一名关注量化交易的程序员,希望能多学习一些本质的交易策略,围绕这些策略开发出一套可以量化的策略出来.
