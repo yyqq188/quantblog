@@ -6,7 +6,7 @@ draft: true
 categories:
  - 策略
 tags:
- - Smart Risk
+ - SmartRisk
  toc: true
 ---
 
