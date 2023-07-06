@@ -51,6 +51,10 @@ toc: true
 2. 在较低的时间范围内等待CHOCH和order block的改变
 {{< youtube 5B26PYNg6nE&t=342s >}}
 
+order block的定义:看图
+
+[order_block](https://imgur.com/P1Suvkc)
+
 ## Best ICT Trading Strategy that works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
 
