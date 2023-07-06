@@ -26,6 +26,25 @@ toc: true
 ## step2: 关于如何找到确认的支撑阻力位
 {{< youtube 5wZhtyiVw_E >}}
 
+## step3: 主要特征
+1. Order block 订单块
+订单块是需求和供给的优化区域,当大型银行或金融机构积累了大量的订单时,订单块就形成了.
+2. Imbalance(IMB) 不平衡
+不平衡时市场波动不均衡的领域,市场上只有买家或卖家,它显示了买卖双方之间的不平衡,这是低效和不健康的价格行为.
+通过市场上剧烈的上涨或下跌的蜡烛图来显示.
+3. Break of structure (BOS) 结构断裂
+当价格突破高点或低点时,成为结构断裂,结构的断裂在趋势的方向上形成,并创建连续模式.
+当价格在一个上涨的趋势中,价格突破了前期的高点,就成为BOS
+4. Change of character (CHOCH) 变化特征
+在看跌的情况下,价格突破之前的高点,就会发生CHOCH,在看涨的情况下,价格突破前期低点,也是CHOCH
+5. Inefficiency (INF) 低效率
+低效市场缺少买家或卖家,有很大的交易缺口
+一般情况下,市场会回来测试或填补下价格的缺口,但是如果没有,而是直接上去或下来的话,这就是市场的缺口.
+6. Liquidity 流动性
+流动性是必须获得执行的订单
+
+{{< youtube VbXKDFVEt7g >}}
+
 ## Best ICT Trading Strategy that works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
 
