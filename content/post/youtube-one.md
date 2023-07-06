@@ -2,8 +2,6 @@
 title: "Smart Risk频道分享的策略分享解析"
 date: 2023-07-03T22:40:08+08:00
 draft: true
-
-
 categories:
  - 策略
 tags:
@@ -42,7 +40,6 @@ toc: true
 一般情况下,市场会回来测试或填补下价格的缺口,但是如果没有,而是直接上去或下来的话,这就是市场的缺口.
 6. Liquidity 流动性
 流动性是必须获得执行的订单
-
 {{< youtube VbXKDFVEt7g >}}
 
 ## 订单块中的订单块策略
@@ -50,10 +47,7 @@ toc: true
 1. 分析市场结构,在更高的时间框架内绘制订单块
 2. 在较低的时间范围内等待CHOCH和order block的改变
 
-<!-- {{< youtube 5B26PYNg6nE&t=342s >}} -->
-
 order block的定义:看图
-
 [order_block](https://imgur.com/P1Suvkc)
 
 ## Best ICT Trading Strategy that works every time -ICT Setup Part 3
