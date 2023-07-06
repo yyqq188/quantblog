@@ -19,14 +19,14 @@ toc: true
 
 本篇文章是对`Smart Risk`频道中的一些视频的观看理解.有理解和分析不到位的地方,请大家指教.
 
-## step1: 什么是order block
+## 什么是order block
 找到无效率和不平衡的地方,以及如何确定order block
 {{< youtube vRmOPT1-gXk >}}
 
-## step2: 关于如何找到确认的支撑阻力位
+## 关于如何找到确认的支撑阻力位
 {{< youtube 5wZhtyiVw_E >}}
 
-## step3: 主要特征
+## 主要特征
 1. Order block 订单块
 订单块是需求和供给的优化区域,当大型银行或金融机构积累了大量的订单时,订单块就形成了.
 2. Imbalance(IMB) 不平衡
@@ -44,6 +44,12 @@ toc: true
 流动性是必须获得执行的订单
 
 {{< youtube VbXKDFVEt7g >}}
+
+## 订单块中的订单块策略
+策略步骤:
+1. 分析市场结构,在更高的时间框架内绘制订单块
+2. 在较低的时间范围内等待CHOCH和order block的改变
+{{< youtube 5B26PYNg6nE&t=342s >}}
 
 ## Best ICT Trading Strategy that works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
