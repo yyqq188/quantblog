@@ -7,7 +7,7 @@ draft: true
 categories:
  - 策略
 tags:
- - SmartRisk
+ - Smart Risk
 toc: true
 ---
 
@@ -23,7 +23,8 @@ toc: true
 找到无效率和不平衡的地方,以及如何确定order block
 {{< youtube vRmOPT1-gXk >}}
 
-
+## step2: 关于如何找到确认的支撑阻力位
+{{< youtube 5wZhtyiVw_E >}}
 
 ## Best ICT Trading Strategy that works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
