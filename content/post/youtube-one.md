@@ -48,7 +48,7 @@ toc: true
 2. 在较低的时间范围内等待CHOCH和order block的改变
 
 order block的定义:看图
-[order_block](https://imgur.com/P1Suvkc)
+[order_block](https://i.imgur.com/P1Suvkc.png)
 
 ## Best ICT Trading Strategy that works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
