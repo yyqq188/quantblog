@@ -46,9 +46,10 @@ toc: true
 策略步骤:
 1. 分析市场结构,在更高的时间框架内绘制订单块
 2. 在较低的时间范围内等待CHOCH和order block的改变
+{{< youtube 5B26PYNg6nE >}}
 
 order block的定义:看图
-[order_block](https://i.imgur.com/P1Suvkc.png)
+![order_block](https://i.imgur.com/P1Suvkc.png)
 
 ## Best ICT Trading Strategy that works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
