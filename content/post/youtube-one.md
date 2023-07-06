@@ -16,6 +16,12 @@ tags:
 
 本篇文章是对`Smart Risk`频道中的一些视频的观看理解.有理解和分析不到位的地方,请大家指教.
 
+## step1: 什么是order block
+找到无效率和不平衡的地方,以及如何确定order block
+
+{{< youtube vRmOPT1-gXk >}}
+
+
 
 ## Best ICT Trading Strategy that works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
