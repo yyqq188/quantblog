@@ -1,5 +1,5 @@
 ---
-title: "Smart Risk频道分享的策略分享解析"
+title: "Smart Risk频道策略学习"
 date: 2023-07-03T22:40:08+08:00
 draft: true
 categories:
@@ -21,10 +21,13 @@ toc: true
 找到无效率和不平衡的地方,以及如何确定order block
 {{< youtube vRmOPT1-gXk >}}
 
+order block的定义
+![order_block](https://i.imgur.com/P1Suvkc.png)
+
 ## 关于如何找到确认的支撑阻力位
 {{< youtube 5wZhtyiVw_E >}}
 
-## 主要特征
+## 基础判断的主要特征
 1. Order block 订单块
 订单块是需求和供给的优化区域,当大型银行或金融机构积累了大量的订单时,订单块就形成了.
 2. Imbalance(IMB) 不平衡
@@ -51,12 +54,10 @@ toc: true
 order block的定义:看图
 ![order_block](https://i.imgur.com/P1Suvkc.png)
 
-## Best ICT Trading Strategy that works every time -ICT Setup Part 3
+## Best ICT Trading Strategy works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
-
 
 ---
 
-
 > 我本人是一名关注量化交易的程序员,希望能多学习一些本质的交易策略,围绕这些策略开发出一套可以量化的策略出来.
-> 有兴趣的朋友可以联系交流🙏
+> 有兴趣的朋友可以与我联系交流(wx:yanghualei188)
