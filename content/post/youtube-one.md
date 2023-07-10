@@ -127,7 +127,7 @@ GBP/JPY和USD/JPY在亚洲时段的相关性很大,因为这段时间只受日�
 
 ## 博头皮的技巧
 
-[Imgur](https://i.imgur.com/j6ouvEF.gif)
+![Imgur](https://i.imgur.com/j6ouvEF.gif)
 ---
 
 > 我本人是一名关注量化交易的程序员,希望能多学习一些本质的交易策略,围绕这些策略开发出一套可以量化的策略出来.
