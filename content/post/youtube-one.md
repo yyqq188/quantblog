@@ -78,7 +78,7 @@ order block的定义:看图
 
 ## 什么是最好的外汇交易货币对
 |常用货币对|
-|---|
+|:---:|
 |EURUSD|
 |GBPUSD|
 |USDJPY|
