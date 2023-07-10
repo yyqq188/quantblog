@@ -57,6 +57,11 @@ order block的定义:看图
 ## Best ICT Trading Strategy works every time -ICT Setup Part 3
 {{< youtube QlgggyB7XGk >}}
 
+## 如何在假突破的情况下入场下单
+
+{{< youtube 7YF5QNXsrrs >}}
+![假突破](https://i.imgur.com/9W4NhDs.png)
+
 ---
 
 > 我本人是一名关注量化交易的程序员,希望能多学习一些本质的交易策略,围绕这些策略开发出一套可以量化的策略出来.
