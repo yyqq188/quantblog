@@ -1,5 +1,5 @@
 ---
-title: "Smart Risk频道策略学习"
+title: "Smart Risk频道策略学习一"
 date: 2023-07-03T22:40:08+08:00
 draft: true
 categories:
@@ -7,6 +7,7 @@ categories:
 tags:
  - Smart Risk
 toc: true
+weight : 2
 ---
 
 `Smart Risk`是youtube中一个分享交易策略的频道.
